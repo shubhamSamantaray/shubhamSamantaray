@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation of various web based applications.
 - 📫 you can reach me on my linked in https://www.linkedin.com/in/samantaray-shubham/
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shubhamSamantaray&show_icons=true)
 <!---
 shubhamSamantaray/shubhamSamantaray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
