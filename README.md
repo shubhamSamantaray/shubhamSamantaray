@@ -5,7 +5,7 @@
 - 📫 you can reach me on my linked in https://www.linkedin.com/in/samantaray-shubham/
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shubhamSamantaray&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamSamantaray&theme=blue-green)
+
 
 <!---
 shubhamSamantaray/shubhamSamantaray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
