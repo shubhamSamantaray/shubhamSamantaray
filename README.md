@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamSamantaray, working as a automation engineer. 
+- 👋 Hi, I’m @shubhamSamantaray, working as a SDE2. 
 - 👀 I’m interested in learning new stuffs and implementing into my work.
 - 🌱 I’m currently learning robot framewok using python.
 - 💞️ I’m looking to collaborate on automation of various web based applications.
