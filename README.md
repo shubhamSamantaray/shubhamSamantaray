@@ -14,11 +14,15 @@
 - 🔭 I’m currently working on exciting open-source projects
 - 🌱 I’m learning new technologies and frameworks
 - 👯 I’m looking to collaborate on innovative ideas
-- 💬 Ask me about Python, JavaScript, or DevOps
+- 💬 Ask me about Java, Automation, Kubernetes, or DevOps
 
 <!-- Skills Section -->
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Detox](https://img.shields.io/badge/-Detox%20Automation-8BC34A?style=flat&logo=detox&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-00BFFF?style=flat&logo=selenium&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
