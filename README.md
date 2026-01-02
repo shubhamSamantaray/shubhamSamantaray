@@ -24,34 +24,41 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center">
-      <b>WORLD 1-1</b><br>
-      <img src="https://img.icons8.com/pixel-blue/64/000000/controller.png" width="40"/><br>
-      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ BACKEND ]</b></a><br>
-      <sub><i>Java Microservices</i></sub>
+    <td align="center" width="250">
+      <p align="center"><b>WORLD 1-1</b></p>
+      <img src="https://img.icons8.com/pixel-blue/64/000000/server.png" width="45"/><br>
+      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ BACKEND_CORE ]</b></a><br>
+      <sub><i>Java Microservices & APIs</i></sub>
     </td>
-    <td align="center">
-      <b>WORLD 1-2</b><br>
-      <img src="https://img.icons8.com/pixel-blue/64/000000/sword.png" width="40"/><br>
-      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ INFRA ]</b></a><br>
-      <sub><i>K8s & Docker</i></sub>
+    <td align="center" width="250">
+      <p align="center"><b>WORLD 1-2</b></p>
+      <img src="https://img.icons8.com/pixel-blue/64/000000/cloud.png" width="45"/><br>
+      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ CLOUD_SHIELD ]</b></a><br>
+      <sub><i>Kubernetes & Docker Ops</i></sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>WORLD 1-3</b><br>
-      <img src="https://img.icons8.com/pixel-blue/64/000000/potion.png" width="40"/><br>
-      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ QA-BOT ]</b></a><br>
-      <sub><i>Detox Automation</i></sub>
+    <td align="center" width="250">
+      <br><p align="center"><b>WORLD 1-3</b></p>
+      <img src="https://img.icons8.com/pixel-blue/64/000000/robot-tatu.png" width="45"/><br>
+      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ AUTO_BOT_9000 ]</b></a><br>
+      <sub><i>Detox & Automation Frameworks</i></sub>
     </td>
-    <td align="center">
-      <b>WORLD 1-4</b><br>
-      <img src="https://img.icons8.com/pixel-blue/64/000000/star.png" width="40"/><br>
-      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ WEB-LAB ]</b></a><br>
-      <sub><i>Angular & React</i></sub>
+    <td align="center" width="250">
+      <br><p align="center"><b>WORLD 1-4</b></p>
+      <img src="https://img.icons8.com/pixel-blue/64/000000/monitor-gear.png" width="45"/><br>
+      <a href="https://github.com/shubhamSamantaray?tab=repositories"><b>[ UI_LABS ]</b></a><br>
+      <sub><i>Modern Angular & React Apps</i></sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <br>
+  <a href="https://github.com/shubhamSamantaray?tab=repositories">
+    <img src="https://img.shields.io/badge/-%F0%9F%94%8D%20VIEW%20ALL%20LEVELS%20(REPOS)-8bac0f?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
