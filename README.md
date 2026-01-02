@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/CURRENT%20THEME-MODERN%20DARK-70a5fd?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/CURRENT%20THEME-ULTRA%20MODERN-bf91f3?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <details>
@@ -78,43 +78,81 @@
 <div id="modern-anchor"></div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Shubham%20Samantaray&fontSize=60&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Shubham%20Samantaray&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/shubhamSamantaray"><img src="https://img.shields.io/twitter/follow/shubhamSamantaray?style=for-the-badge&logo=twitter&color=1a1b27&logoColor=70a5fd" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/shubhamSamantaray"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn"></a>
-  <a href="mailto:shubham@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Email"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=SDE+2+@+Amadeus+Labs;Architecting+Scalable+Systems;DevOps+%26+Cloud+Native;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=SDE+2+%40+Amadeus+Labs;Backend+%26+DevOps;Cloud+Native+Architect" alt="Typing SVG" />
-</p>
-
-### 👨‍💻 About Me
-I'm a **Software Development Engineer 2 at Amadeus Labs**. I build robust, scalable applications and explore the latest in cloud-native technologies during my downtime.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-1a1b27?style=flat-square&logo=openjdk&logoColor=70a5fd) ![JS](https://img.shields.io/badge/-JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=70a5fd) |
-| **Infrastructure** | ![K8s](https://img.shields.io/badge/-Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=70a5fd) ![Docker](https://img.shields.io/badge/-Docker-1a1b27?style=flat-square&logo=docker&logoColor=70a5fd) |
-| **Automation** | ![Detox](https://img.shields.io/badge/-Detox-1a1b27?style=flat-square&logo=expo&logoColor=70a5fd) ![Selenium](https://img.shields.io/badge/-Selenium-1a1b27?style=flat-square&logo=selenium&logoColor=70a5fd) |
-
----
-
-### 📊 Performance Metrics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhamSamantaray&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamSamantaray&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" />
+  <a href="https://twitter.com/shubhamSamantaray"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shubhamSamantaray"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubham@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
+### 🚀 The Mission Control
+> I'm a **Software Development Engineer 2** at **Amadeus Labs**, dedicated to building the future of travel technology. I specialize in bridging the gap between high-performance backend code and automated infrastructure.
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamSamantaray&label=PROFILE+VIEWS&style=flat-square&color=70a5fd" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamSamantaray&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&bg_color=0D111700" width="400" />
+</p>
+
+---
+
+### 🛠️ The Arsenal (Skills)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,angular,react,kubernetes,docker,jenkins,git,linux,maven,mysql" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>🛰️ Core Systems</b><br>
+      • Java Microservices<br>
+      • API Orchestration<br>
+      • Distributed Architecture
+    </td>
+    <td width="50%">
+      <b>⚡ DevOps & Ops</b><br>
+      • Kubernetes Management<br>
+      • CI/CD Pipelines<br>
+      • Infrastructure as Code
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Vital Signs (Stats)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamSamantaray&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=shubhamSamantaray&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <b>Activity Streak</b><br>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamSamantaray&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=bf91f3" />
+</p>
+
+---
+
+### 🐍 Contribution Journey
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamSamantaray/shubhamSamantaray/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamSamantaray&label=SYSTEM+ACCESSES&style=for-the-badge&color=70a5fd" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
